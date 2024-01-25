@@ -1,3 +1,5 @@
+![Alt text](Assets/banner.png)
+
 ### Hi there 👋
 
 <!--
