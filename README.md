@@ -16,3 +16,6 @@ A venir :
 - Notion for Teenagers
 
 Une envie ? N'hésite pas à m'envoyer un message directement sur LinkedIn : https://www.linkedin.com/in/antonycanut/
+
+N'hésitez pas à les partager autour de vous.
+Sur LinkedIn citez moi, ça me fera plaisir ! :)
