@@ -7,10 +7,12 @@ Les For Babies vous permettent de comprendre de manière imagé à quoi sert une
 Les For Teenagers vous permettent de comprendre avec des exemples concret, des images et du code une technologie.
 
 A venir :
-- Ansible for Teenagers [14/02/2024] - En révision
-- ArgoCD for Teenagers - Écriture
+- ArgoCD for Teenagers - En révision
+- Yeoman for Teenagers - Écriture
 - Linux for Babies - Écriture
 - Sonar for Teenagers
+- Jenkins for Teenagers
+- Azure DevOps for Teenagers
 - Docker for Adult - Écriture
 - Notion for Teenagers
 
