@@ -16,7 +16,7 @@ Coming soon:
 - Notion for Teenagers
 - Flux for Teenagers
 - Kubescape for Teenagers
-Interested in something? Feel free to send me a message directly on LinkedIn: https://www.linkedin.com/in/antonycanut/
+Interested in something? Feel free to send me a message directly on LinkedIn: https://www.linkedin.com/in/antonykervazocanut/
 
 Do not hesitate to share them with those around you.
 
